@@ -1,0 +1,20 @@
+/* hotspots verbergen */
+div.hs {
+    visibility:hidden;
+}
+
+/* ponydelen vullen */
+/* kan dit helemaal met -before en -after en dan nog animeren? */
+
+#basis .pony div{
+/* element met class pony in element met id basis */
+    background-image: url(img/delen.png);
+    /* zodat het een blokje wordt ipv een regel */
+    display: inline-block;
+}
+
+#hoofd {
+    min-width: 100px;
+    min-height: 100px;
+    background-position: 361px 328px;
+}
