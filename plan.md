@@ -21,3 +21,22 @@ in html:
 <article>, met vetgedrukt (mouseover? met TITLE attribuut?)
 <figure>, daarin de diverse animaties met hotspot
 <p>
+===
+FASE 2
+===
+ * Uitleggen aan ander, feedback registreren
+ * Naar diens idee luisteren en code bekijken, dingen die ik kan gebruiken eruit pikken.
+ 
+ * ideeen: designcyclus eromheen dan de animaties binnenin. Of: pony in natuurlijke omgeving laten zien 
+ 
+... nog geen resultaten
+
+===
+FASE 2
+===
+ * Uitleggen aan ander, feedback registreren
+ * Naar diens idee luisteren en code bekijken, dingen die ik kan gebruiken eruit pikken.
+ 
+ * ideeen: designcyclus eromheen dan de animaties binnenin. Of: pony in natuurlijke omgeving laten zien 
+ 
+... nog geen resultaten
