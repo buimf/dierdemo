@@ -8,7 +8,7 @@ div.hs {
 
 #basis .pony div{
 /* element met class pony in element met id basis */
-    background-image: url(img/delen.png);
+    background-image: url(img/delen.gif);
     /* zodat het een blokje wordt ipv een regel */
     display: inline-block;
 }
@@ -17,4 +17,11 @@ div.hs {
     min-width: 100px;
     min-height: 100px;
     background-position: 361px 328px;
+}
+
+#nek {
+    min-width: 55px;
+    min-height: 71px;
+    background-position: 478px 239px;
+    /* hé ik zie een stuk van een ander deel in het vierkantje */
 }

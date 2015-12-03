@@ -65,3 +65,9 @@ animatie onderzoeken; voorbeelden
   
 -> probeer de delen.png
 -> plaatje moet transparant!!
+
+===
+FASE 4
+===
+
+plaatje als GIF transparant gemaakt. Lelijk, maar was wel snel. Later kan ik het mooier doen.
