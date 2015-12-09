@@ -1,3 +1,19 @@
+/* ======== begin fonts======== */
+@font-face {
+	font-family: 'Conv_Equestria';
+	src: url('font/Equestria.eot');
+	src: local('☺'), /* als je het al hebt? */ 
+        url('font/Equestria.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+
+strong {
+    font-family: "Conv_Equestria", fantasy; 
+}
+
+/* ======== eind fonts ============= */
+
 /* hotspots verbergen */
 div.hs {
     visibility:hidden;
